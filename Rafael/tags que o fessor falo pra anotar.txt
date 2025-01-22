@@ -1,0 +1,43 @@
+strong 
+em 
+del
+ins 
+mark
+span
+sup / sub
+
+span pode ser usado junto com style ex:
+<span style=color:red>
+
+
+tags de lista
+
+nao ordenada: quando a ordem nao importa
+tags:ul e li
+
+ordenada: Quando a ordem importa
+tags: ol e li
+
+lista com caracteristicas
+tags: dl, dt e dd
+
+TAGS DE CSS 
+style type=
+<style> h2{
+
+}
+tag link
+
+
+VARIAVEIS
+root{
+-- nome do item: guardar cor ou algo relacionado
+}
+
+
+<picture>
+        <source srcset="./img/download.jpg" media="(min-width: 700px)">
+<picture>
+
+COMO TROCAR A FONTE
+font-family

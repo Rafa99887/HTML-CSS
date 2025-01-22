@@ -1,0 +1,120 @@
+body {
+    background-image: linear-gradient(rgb(139, 139, 139), rgb(66, 65, 65));
+}
+
+.div1 {
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 50px;
+}
+
+.titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+
+.lista1 {
+    display: flex;
+    gap: 30px;
+    font-size: 40px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+}
+
+.Titulopri {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    padding-inline: 50px;
+}
+
+.titulo2 {
+    font-size: 150px;
+}
+
+
+.xtudo {
+    font-size: 80px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.xbacon {
+    padding-inline: 600px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.habilidade {
+    transition: 0.2s;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    width: 700px;
+    height: 500px;
+    text-align: center;
+    border: 5px black solid;
+    border-radius: 15px;
+}
+
+.habilidade:hover {
+    transform: scale(1.05);
+}
+
+.projetos:hover {
+    transform: scale(1.05);
+}
+
+.projetos {
+    transition: 0.2s;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    width: 700px;
+    height: 500px;
+    text-align: center;
+    border: 5px black solid;
+    border-radius: 15px;
+}
+
+
+.div-final {
+    padding-top: 200px;
+}
+
+.sobreti {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    text-align: center;
+}
+
+.paragrafo {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+.contato {
+    padding-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    text-align: center;
+}
+
+.ultimalista {
+    text-align: center;
+    font-size: 40px;
+}
+
+.border {
+    border: 5px black solid;
+    background: rgb(139, 139, 139);
+}
+
+.acabou {
+    justify-content: space-around;
+    display: flex;
+    font-size: 30px;
+}

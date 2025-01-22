@@ -1,0 +1,43 @@
+
+
+                	flex-start: Itens alinham-se ao lado esquerdo do contêiner.
+					flex-end: Itens alinham-se ao lado direito do contêiner.
+justify-content:	center: Itens alinham-se ao centro do contêiner.
+					space-between: Itens são exibidos com espaçamento igual entre eles.
+					space-around: Itens são exibidos com espaçamento igual ao redor deles.
+
+
+
+
+
+
+
+			flex-start: os itens se alinham à parte superior do contêiner.
+			flex-end: os itens se alinham ao fundo do contêiner.
+align-items:		center: os itens se alinham no centro vertical do contêiner.
+			linha de base: os itens são exibidos na linha de base do contêiner.
+			stretch: Os itens são esticados para caber no recipiente.
+
+
+
+
+
+
+
+				row: Os itens são colocados na mesma direção do texto.
+				row-reverse: Os itens são colocados opostos à direção do texto.
+flex-direction	column: Os itens são colocados de cima para baixo.
+				column-reverse: Os itens são colocados de baixo para cima.
+
+
+
+
+
+
+align-self: flex-start, flex-end, center, baseline, stretch	
+
+
+
+flex-wrap:  nowrap (default) wrap wrap-reverse
+
+align-content: flex-start flex-end center space-between space-around space-evenly stretch (default)

@@ -1,0 +1,49 @@
+body {
+    background-image: linear-gradient(rgb(241, 241, 110), white);
+}
+
+
+.titulo {
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo2 {
+    font-size: 25px;
+    margin: 0px 0px 0px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragrafo {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+
+}
+
+.imagem {
+    margin: 0px 0px 0px 90px;
+    display: inline-block;
+}
+
+.imagem2 {
+    display: inline-block;
+    margin: 0px 0px 0px 420px;
+}
+
+div {
+    border: 2px black solid;
+    display: flex;
+}
+
+aside{
+    display: flex;
+    justify-content:flex-end;
+}

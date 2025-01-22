@@ -1,0 +1,53 @@
+:root{
+    --cor1 : #3F8EFC;
+    --cor2 :  #2667FF;
+    --cor3 : #ADD7F6;
+}
+
+
+body{
+    background-image: linear-gradient(var(--cor3), var(--cor2));
+}
+
+.titulo{
+    font-size: 50px;
+    text-align: center;
+    color: var(--cor1);
+    font-family:Arial, Helvetica, sans-serif;
+    text-shadow: 1px 4px 1px black;
+}
+
+.titulo2{
+    color: var(--cor2);
+    font-size: 25px;
+    font-family:arial, helvetica, sans-serif;
+    margin: 0px 0px 0px 20px;
+    text-shadow: 1px 2.3px 1px black;
+}
+
+.centro{
+    text-align: center;
+}
+
+.titulo3{
+    color: var(--cor3);
+    font-size: 20px;
+    text-shadow: 1px 2.3px 1px black;
+}
+
+li{
+    font-size: 15px;
+}
+
+.paragrafo{
+    font-size: 18px;
+}
+
+.imagem{
+    margin: 0px 0px 0px 80px;
+}
+
+.link{
+    color: black;
+    text-decoration:none;
+}
