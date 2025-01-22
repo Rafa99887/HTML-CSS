@@ -10,13 +10,13 @@ body {
 
 .titulo {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 60px;
+    font-size: 25px;
 }
 
 .lista1 {
     display: flex;
     gap: 30px;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .link {
@@ -33,28 +33,28 @@ body {
 }
 
 .titulo2 {
-    font-size: 150px;
+    font-size: 60px;
 }
 
 
 .xtudo {
-    font-size: 80px;
+    font-size: 30px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .xbacon {
-    padding-inline: 600px;
+    padding-inline: 350px;
     display: flex;
     justify-content: space-evenly;
 }
 
 .habilidade {
-    transition: 0.2s;
+    transition: 0.3s;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 40px;
-    width: 700px;
-    height: 500px;
+    font-size: 20px;
+    width: 300px;
+    height: 300px;
     text-align: center;
     border: 5px black solid;
     border-radius: 15px;
@@ -69,11 +69,11 @@ body {
 }
 
 .projetos {
-    transition: 0.2s;
+    transition: 0.3s;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 40px;
-    width: 700px;
-    height: 500px;
+    font-size: 20px;
+    width: 300px;
+    height: 300px;
     text-align: center;
     border: 5px black solid;
     border-radius: 15px;
@@ -86,26 +86,26 @@ body {
 
 .sobreti {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 80px;
+    font-size: 30px;
     text-align: center;
 }
 
 .paragrafo {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .contato {
     padding-top: 100px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 80px;
+    font-size: 30px;
     text-align: center;
 }
 
 .ultimalista {
     text-align: center;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .border {
@@ -116,5 +116,16 @@ body {
 .acabou {
     justify-content: space-around;
     display: flex;
-    font-size: 30px;
+    font-size: 15px;
+}
+
+.imagemminha{
+    height: 300px;
+    display: flex;
+    padding-inline:550px ;
+}
+
+.p{
+    text-align: center;
+    font-size:25px
 }
