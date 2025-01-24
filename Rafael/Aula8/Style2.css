@@ -1,0 +1,40 @@
+body {
+    background: rgb(197, 188, 188);
+}
+
+
+h1 {
+    margin-top: 100px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 5px -3px 4px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+div {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+h2 {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+iframe {
+    display: flex;
+    margin: auto;
+}
