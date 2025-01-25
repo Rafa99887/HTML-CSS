@@ -1,0 +1,54 @@
+body{
+    display: flex;
+    background-color: rgb(37, 36, 36);
+    flex-direction: column;
+}
+
+div{
+    background-color: rgb(219, 78, 27);
+    border: 5px solid orangered;
+    margin-inline: 500px;
+    margin-top: 149px;
+    text-align: center;
+    width: 45vh;
+    height: 30vw;
+    border: 2px solid;
+}
+
+
+
+
+h1{
+    text-align: center;
+    text-shadow: -1px 3px 2px orangered;
+    font-size: 40px ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+li{
+    margin-inline-end: 40px;
+    font-size: 15px ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid orange;
+    border-radius: 6px;
+}
+
+
+
+@media screen and (max-width: 768px){
+    div{
+        background-color: rgb(219, 78, 27);
+        border: 5px solid orangered;
+        margin-inline: 100px;
+        margin-top: 200px;
+        text-align: center;
+        width: 35vh;
+        height: 90vw;
+        border: 2px solid;
+    }
+}
